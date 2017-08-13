@@ -3,11 +3,19 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/bl4cky/HTPC_Manager.git" />
+          <option name="url" value="git@code.anecon.com:taf/ef2016.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.anecon.com:stefan.schwartz/tutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.anecon.com/eCommerce/PoC.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\stefa\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\intellij_workspaces\code.anecon.com\eCommerce" />
   </component>
 </application>
